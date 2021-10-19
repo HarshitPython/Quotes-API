@@ -16,7 +16,7 @@
 #     font_size = fit_fontsize( len( quote))
 #     canvas.itemconfigure( quote_text, text=response.json()['quote'], font=("Arial", font_size, 'bold'))
 
-#     response.raise_for_status()
+
 # #     data = response.json()
 # #     quote = data['quote']
 # #     canvas.itemconfig(quote_text,text = quote)
