@@ -16,7 +16,6 @@
 #     font_size = fit_fontsize( len( quote))
 #     canvas.itemconfigure( quote_text, text=response.json()['quote'], font=("Arial", font_size, 'bold'))
 
-#     response = requests.get(url = "https://api.kanye.rest")
 # #     response.raise_for_status()
 # #     data = response.json()
 # #     quote = data['quote']
