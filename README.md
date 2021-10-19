@@ -1,1 +1,1 @@
-# Quotes-API
+# Quotes API
