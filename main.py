@@ -1,5 +1,5 @@
 from tkinter import *
-# import requests
+import requests
 
 
 # FONT_SIZES=[(150,15), (120,18), (90,21), (70,24), (50,27), (30,30), (20,33), (12,36), (1,39)]
