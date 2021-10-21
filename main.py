@@ -18,7 +18,7 @@
 
 
 #     data = response.json()
-# #     quote = data['quote']
+#     quote = data['quote']
 # #     canvas.itemconfig(quote_text,text = quote)
 
 
