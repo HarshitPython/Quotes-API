@@ -4,7 +4,7 @@ import requests
 
 FONT_SIZES=[(150,15), (120,18), (90,21), (70,24), (50,27), (30,30), (20,33), (12,36), (1,39)]
 
-# def fit_fontsize( n_chars):
+def fit_fontsize( n_chars):
 #     for (chars, font_size) in FONT_SIZES:
 #         if n_chars > chars:
 #             return font_size
