@@ -9,7 +9,7 @@ def fit_fontsize( n_chars):
         if n_chars > chars:
             return font_size
 
-# def get_quote():
+def get_quote():
 #     response = requests.get('https://api.kanye.rest/')
 #     response.raise_for_status()
 #     quote = response.json()['quote']
