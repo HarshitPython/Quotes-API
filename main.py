@@ -6,8 +6,8 @@ FONT_SIZES=[(150,15), (120,18), (90,21), (70,24), (50,27), (30,30), (20,33), (12
 
 def fit_fontsize( n_chars):
     for (chars, font_size) in FONT_SIZES:
-#         if n_chars > chars:
-#             return font_size
+        if n_chars > chars:
+            return font_size
 
 # def get_quote():
 #     response = requests.get('https://api.kanye.rest/')
