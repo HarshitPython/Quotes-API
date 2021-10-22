@@ -19,7 +19,7 @@ def get_quote():
 
     data = response.json()
     quote = data['quote']
-#     canvas.itemconfig(quote_text,text = quote)
+    canvas.itemconfig(quote_text,text = quote)
 
 
 
