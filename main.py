@@ -14,7 +14,7 @@ def get_quote():
     response.raise_for_status()
     quote = response.json()['quote']
     font_size = fit_fontsize( len( quote))
-#     canvas.itemconfigure( quote_text, text=response.json()['quote'], font=("Arial", font_size, 'bold'))
+    canvas.itemconfigure( quote_text, text=response.json()['quote'], font=("Arial", font_size, 'bold'))
 
 
 #     data = response.json()
