@@ -17,7 +17,7 @@ def get_quote():
     canvas.itemconfigure( quote_text, text=response.json()['quote'], font=("Arial", font_size, 'bold'))
 
 
-#     data = response.json()
+    data = response.json()
 #     quote = data['quote']
 #     canvas.itemconfig(quote_text,text = quote)
 
