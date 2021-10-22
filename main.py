@@ -23,7 +23,7 @@ def get_quote():
 
 
 
-# window = Tk()
+window = Tk()
 # window.title("Kanye Says...")
 # window.config(padx=50, pady=50)
 
