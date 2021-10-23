@@ -17,7 +17,6 @@ def get_quote():
     canvas.itemconfigure( quote_text, text=response.json()['quote'], font=("Arial", font_size, 'bold'))
 
 
-
 window = Tk()
 window.title("Kanye Says...")
 window.config(padx=50, pady=50)
