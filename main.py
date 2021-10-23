@@ -36,4 +36,4 @@ kanye_button.grid(row=1, column=0)
 
 
 
-# window.mainloop()
+window.mainloop()
